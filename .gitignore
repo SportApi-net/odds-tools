@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# JavaScript
+node_modules/
+js/dist/
+*.tgz
+coverage/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
