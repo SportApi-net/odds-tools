@@ -167,7 +167,7 @@ def test_round_half_up_differs_from_builtin_round() -> None:
 
 
 def test_version() -> None:
-    assert ot.__version__ == "0.1.0"
+    assert ot.__version__ == "0.1.1"
 
 
 def test_convert_return_types() -> None:

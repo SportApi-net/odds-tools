@@ -2,6 +2,8 @@
 
 Betting-odds math for **Python** and **JavaScript/TypeScript**: format conversion, bookmaker margin, no-vig fair odds, accumulators, system bets, Kelly staking, expected value and arbitrage. Zero dependencies, the same API in both languages, and one shared set of test vectors that keeps the two implementations in agreement.
 
+[![PyPI](https://img.shields.io/pypi/v/odds-tools.svg)](https://pypi.org/project/odds-tools/)
+[![npm](https://img.shields.io/npm/v/odds-tools.svg)](https://www.npmjs.com/package/odds-tools)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-3776ab.svg)](python/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-ESM%20%2B%20CJS-3178c6.svg)](js/)

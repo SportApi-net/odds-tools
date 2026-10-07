@@ -1,6 +1,6 @@
 {
   "name": "odds-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dependency-free betting odds math: format conversion, margin and no-vig fair odds, accumulators, system bets, Kelly staking, EV and arbitrage.",
   "keywords": [
     "odds",
@@ -19,7 +19,7 @@
     "parlay",
     "accumulator"
   ],
-  "homepage": "https://github.com/SportApi-net/odds-tools#readme",
+  "homepage": "https://sportapi.net",
   "bugs": {
     "url": "https://github.com/SportApi-net/odds-tools/issues"
   },

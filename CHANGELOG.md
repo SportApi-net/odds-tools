@@ -5,6 +5,16 @@ All notable changes to this project are documented here. The format is based on
 [Semantic Versioning](https://semver.org/). The Python and npm packages share
 version numbers.
 
+## [0.1.1] - 2026-10-07
+
+### Changed
+
+- Package homepage now points to https://sportapi.net; the GitHub repository is listed as
+  the repository/source link. PyPI also lists a "Live odds data (SportAPI)" link.
+- README: PyPI and npm version badges.
+- Releases are published automatically from GitHub Actions to PyPI and npm via Trusted
+  Publishing (no stored tokens). No library code changes.
+
 ## [0.1.0] - 2026-10-07
 
 ### Added

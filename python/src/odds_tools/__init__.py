@@ -48,7 +48,7 @@ from .margin import (
 from .rounding import round_half_up
 from .staking import expected_value, kelly_fraction, kelly_stake
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "FORMATS",

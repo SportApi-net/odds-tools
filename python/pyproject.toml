@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "odds-tools"
-version = "0.1.0"
+version = "0.1.1"
 description = "Dependency-free betting odds math: format conversion, margin and no-vig fair odds, accumulators, system bets, Kelly staking, EV and arbitrage."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -37,7 +37,9 @@ dependencies = []
 dev = ["pytest>=7", "ruff>=0.6", "mypy>=1.10", "build>=1"]
 
 [project.urls]
-Homepage = "https://github.com/SportApi-net/odds-tools"
+Homepage = "https://sportapi.net"
+"Live odds data (SportAPI)" = "https://sportapi.net/sport-line-api.html"
+Repository = "https://github.com/SportApi-net/odds-tools"
 Source = "https://github.com/SportApi-net/odds-tools/tree/main/python"
 Issues = "https://github.com/SportApi-net/odds-tools/issues"
 Changelog = "https://github.com/SportApi-net/odds-tools/blob/main/CHANGELOG.md"
